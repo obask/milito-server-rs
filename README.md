@@ -1,2 +1,3 @@
-# milito-server-rs
+# milito-rust
 The board game server implemented in rust.
+
